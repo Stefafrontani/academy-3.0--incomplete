@@ -1,0 +1,7 @@
+const PROVINCES_INITIAL_STATE = {
+    provinces: []
+};
+
+const SET_PROVINCES = "SET_PROVINCES";
+
+export { PROVINCES_INITIAL_STATE, SET_PROVINCES };
